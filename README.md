@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @c-120
-- 👀 I’m interested in physics, IT, art and so on. I'm also a developer, though I know little about Programming.
-- 🌱 I’m currently learning C++, C# ,JavaScripts, linux, unity and UnrealEngine.
-- 💞️ I’m looking to collaborate on game making.
-- 📫 You can write an email to c-120v@outlook.com to reach me.
-- Please don't call me in any insulting nickname, that will damage a positive person, thank you.
-- I don't know many things, so I have a long way to go in the future, maybe I can do better if you help me.
-- Thank you.
+I'm c-120, a student in junior high school.
+Everyone can contact me by email if you have something to discuss with me. I'm happy to receive advices all the time.
+As a student, I can't spend too much of my time on IT. I'm always busy with my school work.
+I love playing Rythmn Games, such as Maimai,Acraea,Malody and phigros, and also racing games like Asphalt 9 and Forza Horizon series.
+I'm currently learning Unity. If I have enough time, I also want to study Linux too.
+Thank you.
 
 <!---
 c-120/c-120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
